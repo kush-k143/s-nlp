@@ -1,0 +1,15 @@
+numpy
+pandas
+Flask
+scikit-learn
+seaborn
+matplotlib
+requests
+Pillow
+gunicorn == 20.0.4
+
+
+
+
+
+
